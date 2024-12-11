@@ -1,0 +1,18 @@
+.vendor-card {
+    width: 100%;
+    padding: 15px;
+    margin: 10px;
+}
+@media screen and (min-width: 768px) {
+    .vendor-card {
+        width: 300px;
+    }
+}
+.vendor-profile-photo {
+    width: 50px;
+    border-radius: 50%;
+}
+.vendor-name {
+    font-family: "Open Sans";
+    font-size: 16px;
+}
